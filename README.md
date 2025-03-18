@@ -16,5 +16,7 @@
 4. Setup the .env and configure it.
    ```sh
    mv .env.example .env
-5. 
+5. To Run the server
+    ```sh
+    
 6. Check that the server is running on the PORT 5173.
