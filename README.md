@@ -18,5 +18,6 @@
    mv .env.example .env
 5. To Run the server
     ```sh
+    npm run dev
     
 6. Check that the server is running on the PORT 5173.
