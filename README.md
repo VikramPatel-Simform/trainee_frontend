@@ -13,7 +13,8 @@
 3. Install dependencies
      ```sh
      npm install
-4. Start the back-end server:
+4. Setup the .env and configure it.
    ```sh
-   npm run dev
-5. Check that the server is running on the PORT 5173.
+   mv .env.example .env
+5. 
+6. Check that the server is running on the PORT 5173.
